@@ -1,0 +1,528 @@
+date,description,amount,category
+2025-10-03,Bus fare cash,520.0,Transport
+2025-10-03,Grocery store paid,960.0,Food
+2025-10-04,Bus fare card,810.0,Transport
+2025-10-04,Picnic paid,1370.0,Entertainment
+2025-10-04,Petrol cash,710.0,Transport
+2025-10-05,Tea and snacks card,1470.0,
+2025-10-05,Electricity bill,9520.0,
+2025-10-05,Internet bill,3410.0,Bills
+2025-10-05,Mobile package,1300.0,Bills
+2025-10-05,Gas bill,2700.0,Bills
+2025-10-07,shopping trip,3530.0,Shopping
+2025-10-07,Car service paid,1070.0,
+2025-10-07,Netflix,1680.0,Entertainment
+2025-10-07,Petrol today,350.0,Transport
+2025-10-08,Pharmacy card,610.0,Health
+2025-10-08,bill,3990.0,
+2025-10-08,KFC lunch,2220.0,
+2025-10-10,Lab test today,3180.0,Health
+2025-10-11,Mobile accessory paid,2370.0,Shopping
+2025-10-11,Clothes outlet cash,1710.0,Shopping
+2025-10-12,Car service cash,680.0,Transport
+2025-10-14,Mobile accessory paid,4200.0,Shopping
+2025-10-15,payment,810.0,Food
+2025-10-16,Lab test today,2480.0,Health
+2025-10-16,Restaurant dinner paid,1190.0,Food
+2025-10-16,shopping trip,470.0,Transport
+2025-10-16,misc,940.0,
+2025-10-17,KFC lunch,3770.0,
+2025-10-19,KFC lunch card,1110.0,Food
+2025-10-20,Game purchase,1590.0,Entertainment
+2025-10-20,Foodpanda dinner today,930.0,Food
+2025-10-21,Tea and snacks,390.0,
+2025-10-21,New shoes online,4860.0,Shopping
+2025-10-22,New shoes paid,2980.0,Shopping
+2025-10-24,Game purchase cash,1630.0,
+2025-10-24,Clothes outlet,3170.0,Shopping
+2025-10-25,New shoes cash,1760.0,Shopping
+2025-10-25,other,2460.0,Health
+2025-10-26,payment,1090.0,Food
+2025-10-26,misc,1790.0,Entertainment
+2025-10-26,Car service,750.0,Transport
+2025-10-28,Restaurant dinner online,2080.0,Food
+2025-10-28,Bus fare,470.0,
+2025-10-29,Bus fare today,840.0,Transport
+2025-10-30,Bus fare card,580.0,Transport
+2025-10-30,Careem trip card,890.0,Transport
+2025-10-31,Grocery store cash,1420.0,Food
+2025-10-31,KFC lunch,840.0,Food
+2025-11-04,Bakery today,780.0,Food
+2025-11-04,Doctor visit today,1410.0,
+2025-11-05,Petrol today,760.0,Transport
+2025-11-05,Electricity bill,9590.0,Bills
+2025-11-05,Internet bill,3440.0,Bills
+2025-11-05,Mobile package,1120.0,Bills
+2025-11-05,Gas bill,2340.0,Bills
+2025-11-06,Uber ride online,960.0,Transport
+2025-11-06,Grocery store today,1470.0,Food
+2025-11-06,Doctor visit card,1360.0,Health
+2025-11-09,Clothes outlet today,2400.0,
+2025-11-10,Bus fare paid,340.0,Transport
+2025-11-11,Game purchase paid,1520.0,Entertainment
+2025-11-12,Doctor visit,1440.0,Health
+2025-11-12,Grocery store online,590.0,Food
+2025-11-14,Grocery store paid,4840.0,Food
+2025-11-15,KFC lunch,240.0,Food
+2025-11-15,Daraz order paid,2310.0,Shopping
+2025-11-15,other,3100.0,Entertainment
+2025-11-16,Mobile accessory cash,4340.0,Shopping
+2025-11-17,Foodpanda dinner cash,920.0,
+2025-11-18,Game purchase card,3230.0,Entertainment
+2025-11-18,misc,1510.0,Food
+2025-11-18,KFC lunch,1280.0,Food
+2025-11-19,Gym fee online,1390.0,Health
+2025-11-20,Grocery store,1690.0,Food
+2025-11-20,Petrol online,1190.0,
+2025-11-22,Pharmacy,3560.0,Health
+2025-11-23,Spotify today,1890.0,Entertainment
+2025-11-24,Careem trip card,1050.0,
+2025-11-24,misc,3100.0,Food
+2025-11-25,Restaurant dinner online,1640.0,Food
+2025-11-26,Foodpanda dinner,1180.0,Food
+2025-11-27,Rickshaw card,850.0,Transport
+2025-11-28,Tea and snacks paid,830.0,Food
+2025-11-29,Pharmacy today,2480.0,Health
+2025-11-29,Tea and snacks online,1420.0,Food
+2025-12-01,KFC lunch online,1900.0,Food
+2025-12-01,KFC lunch cash,1770.0,Food
+2025-12-03,Uber ride paid,760.0,Transport
+2025-12-03,Netflix paid,1490.0,Entertainment
+2025-12-03,Gym fee paid,1620.0,Health
+2025-12-05,Electricity bill,9720.0,Bills
+2025-12-05,Internet bill,3200.0,
+2025-12-05,Mobile package,1260.0,Bills
+2025-12-05,Gas bill,2320.0,
+2025-12-06,Bakery paid,1400.0,Food
+2025-12-06,payment,1980.0,Food
+2025-12-06,Gift for friend today,4920.0,Shopping
+2025-12-07,Foodpanda dinner online,1260.0,Food
+2025-12-07,Rickshaw,870.0,Transport
+2025-12-09,misc,570.0,Transport
+2025-12-09,other,900.0,Food
+2025-12-12,payment,1400.0,
+2025-12-12,Gift for friend cash,3660.0,Shopping
+2025-12-12,Game purchase today,1190.0,Entertainment
+2025-12-12,Careem trip today,750.0,
+2025-12-12,Tea and snacks today,910.0,Food
+2025-12-15,Grocery store,1890.0,Food
+2025-12-15,bill,690.0,Food
+2025-12-15,New shoes cash,4340.0,Shopping
+2025-12-15,Uber ride,1190.0,Transport
+2025-12-17,Foodpanda dinner paid,4180.0,
+2025-12-18,Foodpanda dinner paid,1950.0,Food
+2025-12-19,Foodpanda dinner cash,1690.0,Food
+2025-12-19,KFC lunch cash,700.0,Food
+2025-12-19,Tea and snacks,2140.0,
+2025-12-20,misc,1170.0,Transport
+2025-12-21,Doctor visit,2030.0,
+2025-12-22,Foodpanda dinner paid,3860.0,Food
+2025-12-22,Daraz order paid,2960.0,Shopping
+2025-12-24,shopping trip,2320.0,Entertainment
+2025-12-26,Restaurant dinner,1320.0,Food
+2025-12-28,Tea and snacks cash,1970.0,Food
+2025-12-28,misc,570.0,
+2025-12-28,Gift for friend today,2250.0,Shopping
+2025-12-30,payment,1140.0,Food
+2025-12-31,KFC lunch online,1480.0,Food
+2025-12-31,Netflix cash,2300.0,Entertainment
+2025-12-31,other,980.0,Food
+2025-12-31,Uber ride online,830.0,Transport
+2025-12-31,Mobile accessory card,3060.0,Shopping
+2026-01-03,Bus fare card,1930.0,Transport
+2026-01-05,Electricity bill,9590.0,Bills
+2026-01-05,Internet bill,3780.0,Bills
+2026-01-05,Mobile package,1120.0,Bills
+2026-01-05,Gas bill,2420.0,Bills
+2026-01-07,Lab test online,1940.0,
+2026-01-08,KFC lunch online,990.0,Food
+2026-01-08,Restaurant dinner today,660.0,Food
+2026-01-08,Tea and snacks paid,1270.0,Food
+2026-01-08,other,570.0,
+2026-01-09,Gift for friend online,2470.0,
+2026-01-09,KFC lunch today,1450.0,Food
+2026-01-10,Picnic today,870.0,Entertainment
+2026-01-10,Restaurant dinner today,560.0,Food
+2026-01-11,Cinema ticket,2080.0,Entertainment
+2026-01-13,Careem trip online,1020.0,Transport
+2026-01-14,Gift for friend today,1980.0,Shopping
+2026-01-15,Careem trip,720.0,Transport
+2026-01-16,Tea and snacks cash,620.0,Food
+2026-01-17,KFC lunch card,1200.0,Food
+2026-01-18,Petrol cash,180.0,
+2026-01-18,Careem trip cash,1140.0,
+2026-01-18,Daraz order,5740.0,Shopping
+2026-01-19,Bakery paid,1890.0,Food
+2026-01-19,Gym fee cash,2250.0,
+2026-01-20,Foodpanda dinner,1320.0,Food
+2026-01-21,Bus fare today,1690.0,Transport
+2026-01-22,Tea and snacks cash,690.0,Food
+2026-01-23,Game purchase paid,1470.0,Entertainment
+2026-01-23,Game purchase card,3050.0,Entertainment
+2026-01-23,Bus fare paid,550.0,Transport
+2026-01-25,Spotify today,730.0,Entertainment
+2026-01-25,Petrol online,530.0,Transport
+2026-01-26,Tea and snacks,1240.0,Food
+2026-01-26,Cinema ticket,1180.0,Entertainment
+2026-01-27,Spotify,1640.0,Entertainment
+2026-01-28,Gym fee,1830.0,Health
+2026-01-28,Foodpanda dinner paid,2460.0,Food
+2026-01-29,Pharmacy,2630.0,Health
+2026-01-29,Foodpanda dinner card,1320.0,Food
+2026-02-03,Spotify cash,1530.0,Entertainment
+2026-02-03,Game purchase card,1040.0,Entertainment
+2026-02-05,KFC lunch card,270.0,Food
+2026-02-05,Gift for friend,3530.0,Shopping
+2026-02-05,Electricity bill,8790.0,Bills
+2026-02-05,Internet bill,3370.0,Bills
+2026-02-05,Mobile package,1270.0,
+2026-02-05,Gas bill,2680.0,Bills
+2026-02-06,Daraz order cash,6340.0,Shopping
+2026-02-06,Careem trip today,880.0,Transport
+2026-02-07,Game purchase paid,3630.0,Entertainment
+2026-02-07,Pharmacy card,1760.0,Health
+2026-02-08,shopping trip,820.0,
+2026-02-09,KFC lunch online,3020.0,Food
+2026-02-09,Gift for friend,8030.0,Shopping
+2026-02-09,New shoes,3980.0,Shopping
+2026-02-10,Pharmacy card,1820.0,Health
+2026-02-11,Tea and snacks,1770.0,Food
+2026-02-12,Picnic card,1230.0,Entertainment
+2026-02-14,Petrol today,1250.0,Transport
+2026-02-16,Doctor visit,570.0,Health
+2026-02-16,Grocery store card,1160.0,Food
+2026-02-17,Pharmacy today,1450.0,Health
+2026-02-17,KFC lunch,2170.0,Food
+2026-02-17,Foodpanda dinner,700.0,Food
+2026-02-18,Grocery store cash,840.0,Food
+2026-02-19,Tea and snacks card,940.0,
+2026-02-21,Pharmacy card,1700.0,Health
+2026-02-22,Game purchase,1220.0,Entertainment
+2026-02-22,Bus fare,370.0,Transport
+2026-02-23,Mobile accessory paid,6250.0,Shopping
+2026-02-24,Game purchase paid,1080.0,Entertainment
+2026-02-25,Bakery,2100.0,Food
+2026-02-25,Careem trip card,800.0,
+2026-02-26,Car service,1460.0,Transport
+2026-02-27,Bakery,1010.0,Food
+2026-02-28,Careem trip,1370.0,Transport
+2026-02-28,New shoes card,4690.0,Shopping
+2026-03-01,Foodpanda dinner online,760.0,Food
+2026-03-01,Gym fee card,1010.0,Health
+2026-03-01,Mobile accessory,6230.0,Shopping
+2026-03-02,Bakery,1830.0,Food
+2026-03-03,Grocery store,680.0,Food
+2026-03-05,Pharmacy card,1080.0,Health
+2026-03-05,Foodpanda dinner,2480.0,Food
+2026-03-05,Electricity bill,8570.0,Bills
+2026-03-05,Internet bill,3570.0,Bills
+2026-03-05,Mobile package,1370.0,Bills
+2026-03-05,Gas bill,2480.0,Bills
+2026-03-06,New shoes cash,4160.0,Shopping
+2026-03-06,petrol,650.0,Transport
+2026-03-07,Picnic,1180.0,
+2026-03-07,Pharmacy,1460.0,Health
+2026-03-07,Gym fee cash,2350.0,Health
+2026-03-07,shopping trip,1570.0,
+2026-03-09,shopping trip,540.0,
+2026-03-09,Tea and snacks,1230.0,
+2026-03-10,Rickshaw today,640.0,Transport
+2026-03-10,Picnic,3730.0,Entertainment
+2026-03-11,Restaurant dinner cash,1480.0,Food
+2026-03-13,Restaurant dinner card,1530.0,Food
+2026-03-14,Petrol online,1090.0,Transport
+2026-03-16,Grocery store today,2090.0,Food
+2026-03-16,Game purchase today,2740.0,
+2026-03-16,Doctor visit online,1820.0,Health
+2026-03-18,Rickshaw cash,2570.0,Transport
+2026-03-22,Car service card,690.0,Transport
+2026-03-22,misc,3040.0,Shopping
+2026-03-23,Tea and snacks,1540.0,Food
+2026-03-23,Restaurant dinner today,490.0,Food
+2026-03-24,bill,1470.0,Entertainment
+2026-03-24,Grocery store cash,1350.0,Food
+2026-03-24,Lab test today,3920.0,Health
+2026-03-25,Rickshaw cash,1160.0,Transport
+2026-03-25,Netflix,1100.0,Entertainment
+2026-03-26,Restaurant dinner today,3310.0,Food
+2026-03-26,Petrol,700.0,
+2026-03-26,Cinema ticket online,1520.0,Entertainment
+2026-03-27,Car service cash,860.0,Transport
+2026-03-27,Grocery store,1410.0,Food
+2026-03-28,Tea and snacks today,910.0,Food
+2026-03-28,Daraz order,2040.0,Shopping
+2026-03-28,KFC lunch,1800.0,
+2026-03-29,Restaurant dinner,1610.0,
+2026-03-29,Restaurant dinner today,2100.0,Food
+2026-03-31,Bus fare paid,920.0,Transport
+2026-04-03,Careem trip paid,1210.0,Transport
+2026-04-03,Bakery cash,1080.0,Food
+2026-04-03,Spotify online,1510.0,Entertainment
+2026-04-03,Foodpanda dinner paid,1530.0,Food
+2026-04-03,misc,730.0,Food
+2026-04-04,Petrol cash,760.0,Transport
+2026-04-05,misc,760.0,Transport
+2026-04-05,Electricity bill,9600.0,Bills
+2026-04-05,Internet bill,3560.0,Bills
+2026-04-05,Mobile package,1320.0,Bills
+2026-04-05,Gas bill,2850.0,Bills
+2026-04-06,Foodpanda dinner today,710.0,Food
+2026-04-07,other,2360.0,Entertainment
+2026-04-11,gift,3930.0,Shopping
+2026-04-12,Clothes outlet,3260.0,Shopping
+2026-04-12,Pharmacy online,840.0,Health
+2026-04-12,Car service,450.0,Transport
+2026-04-14,Cinema ticket online,2420.0,Entertainment
+2026-04-14,Foodpanda dinner online,2580.0,Food
+2026-04-14,Bakery paid,1490.0,Food
+2026-04-15,shopping trip,4100.0,
+2026-04-17,other,1260.0,
+2026-04-17,Lab test online,700.0,Health
+2026-04-19,Bakery,990.0,Food
+2026-04-20,doctor,2340.0,Health
+2026-04-20,bill,3400.0,
+2026-04-21,Grocery store online,1990.0,Food
+2026-04-21,Picnic cash,1310.0,Entertainment
+2026-04-22,Uber ride,1220.0,Transport
+2026-04-22,New shoes,2880.0,Shopping
+2026-04-25,bill,1380.0,Transport
+2026-04-25,misc,880.0,Transport
+2026-04-25,Restaurant dinner,1790.0,Food
+2026-04-26,KFC lunch,590.0,Food
+2026-04-27,KFC lunch online,650.0,Food
+2026-04-28,misc,3290.0,Food
+2026-04-29,New shoes cash,2440.0,
+2026-04-29,KFC lunch,1200.0,Food
+2026-04-30,Restaurant dinner online,2710.0,Food
+2026-04-30,Spotify online,1130.0,Entertainment
+2026-05-01,Grocery store today,2710.0,Food
+2026-05-01,Spotify paid,1290.0,Entertainment
+2026-05-02,Bus fare card,600.0,Transport
+2026-05-02,shopping trip,710.0,
+2026-05-02,Gift for friend paid,5440.0,Shopping
+2026-05-02,Restaurant dinner today,1290.0,Food
+2026-05-03,new,3270.0,Shopping
+2026-05-03,misc,930.0,Entertainment
+2026-05-04,Spotify,1460.0,Entertainment
+2026-05-05,Electricity bill,8510.0,Bills
+2026-05-05,Internet bill,3640.0,Bills
+2026-05-05,Mobile package,1150.0,Bills
+2026-05-05,Gas bill,2460.0,Bills
+2026-05-06,Restaurant dinner card,2640.0,Food
+2026-05-06,Foodpanda dinner paid,860.0,Food
+2026-05-09,other,1510.0,Food
+2026-05-10,Bus fare,990.0,
+2026-05-12,Grocery store,1730.0,
+2026-05-13,Pharmacy cash,4870.0,Health
+2026-05-14,Netflix,4770.0,Entertainment
+2026-05-15,Foodpanda dinner online,500.0,Food
+2026-05-17,Careem trip paid,480.0,Transport
+2026-05-17,Foodpanda dinner cash,2780.0,Food
+2026-05-19,Clothes outlet card,10010.0,Shopping
+2026-05-19,Restaurant dinner today,2550.0,
+2026-05-20,misc,1630.0,
+2026-05-20,Daraz order today,1590.0,Shopping
+2026-05-20,Lab test,1630.0,Health
+2026-05-20,New shoes paid,1850.0,
+2026-05-20,Restaurant dinner online,1050.0,Food
+2026-05-21,bill,2790.0,Entertainment
+2026-05-22,Spotify online,1680.0,Entertainment
+2026-05-24,Tea and snacks,870.0,Food
+2026-05-25,payment,670.0,Food
+2026-05-25,payment,990.0,Food
+2026-05-25,Game purchase,740.0,Entertainment
+2026-05-26,Tea and snacks today,3310.0,Food
+2026-05-26,bill,2600.0,Shopping
+2026-05-26,other,2010.0,Food
+2026-05-28,other,590.0,
+2026-05-29,Foodpanda dinner cash,1950.0,Food
+2026-05-29,Bus fare today,340.0,Transport
+2026-05-30,other,1320.0,Health
+2026-06-03,Mobile accessory online,3080.0,
+2026-06-03,Cinema ticket cash,4050.0,
+2026-06-03,Grocery store today,1810.0,Food
+2026-06-04,Spotify,2700.0,Entertainment
+2026-06-05,Rickshaw,300.0,
+2026-06-05,Cinema ticket cash,2380.0,
+2026-06-05,Electricity bill,9900.0,Bills
+2026-06-05,Internet bill,3920.0,Bills
+2026-06-05,Mobile package,1300.0,Bills
+2026-06-05,Gas bill,2390.0,Bills
+2026-06-06,misc,550.0,Transport
+2026-06-07,Rickshaw,1840.0,Transport
+2026-06-09,Grocery store,770.0,Food
+2026-06-09,Pharmacy card,2760.0,Health
+2026-06-10,Gift for friend,3540.0,Shopping
+2026-06-10,Bus fare card,1450.0,Transport
+2026-06-12,Rickshaw today,460.0,Transport
+2026-06-12,Rickshaw,290.0,Transport
+2026-06-12,payment,1080.0,Transport
+2026-06-12,other,2420.0,Food
+2026-06-13,bill,560.0,Transport
+2026-06-13,Careem trip cash,530.0,
+2026-06-14,Foodpanda dinner online,2820.0,
+2026-06-14,Careem trip,870.0,
+2026-06-14,Petrol online,700.0,Transport
+2026-06-14,Foodpanda dinner,1150.0,Food
+2026-06-15,payment,2010.0,Health
+2026-06-16,KFC lunch,1580.0,
+2026-06-16,Uber ride card,910.0,Transport
+2026-06-16,Petrol cash,500.0,Transport
+2026-06-17,Foodpanda dinner,1930.0,Food
+2026-06-18,Restaurant dinner,610.0,Food
+2026-06-19,Careem trip today,480.0,Transport
+2026-06-19,Grocery store,1270.0,Food
+2026-06-19,payment,1640.0,Food
+2026-06-19,Pharmacy online,1130.0,Health
+2026-06-19,Rickshaw online,800.0,Transport
+2026-06-21,Mobile accessory paid,1980.0,
+2026-06-21,Restaurant dinner,2220.0,Food
+2026-06-22,Doctor visit,1720.0,Health
+2026-06-22,Bakery,1700.0,Food
+2026-06-22,KFC lunch today,1060.0,Food
+2026-06-24,Grocery store card,1420.0,Food
+2026-06-24,misc,1220.0,Transport
+2026-06-24,Tea and snacks online,3940.0,Food
+2026-06-24,New shoes today,4850.0,Shopping
+2026-06-25,bill,1630.0,Food
+2026-06-25,Car service,720.0,
+2026-06-25,Game purchase,930.0,Entertainment
+2026-06-26,Petrol cash,820.0,
+2026-06-27,KFC lunch today,1270.0,Food
+2026-06-29,Clothes outlet,3520.0,Shopping
+2026-07-01,Bus fare,1090.0,Transport
+2026-07-01,KFC lunch online,2580.0,Food
+2026-07-01,KFC lunch today,1030.0,
+2026-07-02,Grocery store online,1990.0,Food
+2026-07-02,Bus fare card,260.0,Transport
+2026-07-03,Rickshaw today,1260.0,
+2026-07-04,Lab test,2470.0,Health
+2026-07-04,Picnic,2870.0,
+2026-07-05,payment,1680.0,Food
+2026-07-05,Electricity bill,8160.0,Bills
+2026-07-05,Internet bill,3800.0,
+2026-07-05,Mobile package,1090.0,Bills
+2026-07-05,Gas bill,2340.0,Bills
+2026-07-06,Grocery store today,1200.0,Food
+2026-07-07,Foodpanda dinner,1260.0,Food
+2026-07-08,Tea and snacks,1550.0,Food
+2026-07-09,KFC lunch today,390.0,Food
+2026-07-10,KFC lunch card,2340.0,Food
+2026-07-10,other,2120.0,Food
+2026-07-11,Petrol today,570.0,Transport
+2026-07-11,misc,2730.0,Food
+2026-07-12,Restaurant dinner online,870.0,Food
+2026-07-12,Petrol paid,1000.0,Transport
+2026-07-12,Game purchase today,950.0,Entertainment
+2026-07-13,Picnic card,2100.0,Entertainment
+2026-07-14,Tea and snacks,840.0,Food
+2026-07-14,Restaurant dinner cash,850.0,Food
+2026-07-14,Careem trip card,640.0,Transport
+2026-07-14,rickshaw,290.0,Transport
+2026-07-15,Bakery online,1310.0,Food
+2026-07-16,KFC lunch,1080.0,Food
+2026-07-16,shopping trip,970.0,Food
+2026-07-16,Pharmacy,2880.0,Health
+2026-07-16,Grocery store,1840.0,Food
+2026-07-18,Careem trip,580.0,Transport
+2026-07-20,Bakery card,1280.0,Food
+2026-07-20,Grocery store online,1010.0,Food
+2026-07-20,Careem trip,970.0,Transport
+2026-07-20,Foodpanda dinner online,1170.0,Food
+2026-07-22,Gym fee online,700.0,Health
+2026-07-22,New shoes cash,2560.0,Shopping
+2026-07-22,other,1480.0,Food
+2026-07-28,KFC lunch cash,970.0,Food
+2026-07-28,Restaurant dinner paid,960.0,Food
+2026-07-29,Careem trip today,700.0,
+2026-07-29,Grocery store,1340.0,
+2026-07-29,KFC lunch,2050.0,Food
+2026-07-29,misc,1070.0,Food
+2026-07-29,bill,770.0,Food
+2026-07-30,Car service,1350.0,Transport
+2026-07-30,Grocery store paid,940.0,Food
+2026-07-31,Foodpanda dinner online,1290.0,
+2026-08-04,Lab test today,4080.0,Health
+2026-08-04,KFC lunch card,1800.0,
+2026-08-04,Grocery store card,2430.0,Food
+2026-08-04,Tea and snacks paid,1300.0,Food
+2026-08-05,Uber ride cash,780.0,
+2026-08-05,Mobile accessory online,5610.0,Shopping
+2026-08-05,Electricity bill,8940.0,Bills
+2026-08-05,Internet bill,3770.0,Bills
+2026-08-05,Mobile package,1310.0,Bills
+2026-08-05,Gas bill,2720.0,Bills
+2026-08-06,Uber ride paid,1560.0,Transport
+2026-08-07,Rickshaw,590.0,
+2026-08-07,payment,2100.0,Entertainment
+2026-08-08,KFC lunch,740.0,Food
+2026-08-10,Petrol,190.0,Transport
+2026-08-11,Clothes outlet card,3010.0,
+2026-08-14,KFC lunch paid,1110.0,Food
+2026-08-14,Clothes outlet paid,3450.0,Shopping
+2026-08-15,Game purchase card,2790.0,Entertainment
+2026-08-15,Careem trip paid,1500.0,Transport
+2026-08-17,picnic,1760.0,Entertainment
+2026-08-17,Game purchase card,1050.0,Entertainment
+2026-08-18,Car service,1050.0,Transport
+2026-08-19,misc,950.0,Entertainment
+2026-08-20,KFC lunch online,2060.0,Food
+2026-08-20,Foodpanda dinner cash,1170.0,
+2026-08-20,other,1420.0,Shopping
+2026-08-21,payment,1360.0,Food
+2026-08-22,Bakery paid,3950.0,Food
+2026-08-23,Foodpanda dinner paid,1880.0,Food
+2026-08-23,Restaurant dinner today,770.0,Food
+2026-08-23,Restaurant dinner card,1100.0,Food
+2026-08-25,Rickshaw paid,340.0,Transport
+2026-08-25,Restaurant dinner cash,2050.0,Food
+2026-08-26,Cinema ticket paid,3610.0,Entertainment
+2026-08-26,Grocery store,1570.0,Food
+2026-08-26,misc,4190.0,Shopping
+2026-08-27,Bakery,2110.0,Food
+2026-08-27,Pharmacy today,1760.0,Health
+2026-08-27,Uber ride card,2010.0,Transport
+2026-08-27,Game purchase today,510.0,Entertainment
+2026-08-29,rickshaw,620.0,Transport
+2026-08-29,Rickshaw cash,360.0,Transport
+2026-09-01,Car service online,360.0,Transport
+2026-09-02,Restaurant dinner cash,3150.0,Food
+2026-09-02,Doctor visit,2160.0,Health
+2026-09-05,Electricity bill,9330.0,Bills
+2026-09-05,Internet bill,3890.0,
+2026-09-05,Mobile package,1310.0,Bills
+2026-09-05,Gas bill,2650.0,Bills
+2026-09-07,Careem trip cash,490.0,Transport
+2026-09-07,Uber ride,1120.0,Transport
+2026-09-08,Gift for friend today,2800.0,Shopping
+2026-09-09,Restaurant dinner,2010.0,Food
+2026-09-10,Grocery store card,1460.0,Food
+2026-09-10,Foodpanda dinner today,530.0,
+2026-09-11,Lab test,940.0,Health
+2026-09-12,Restaurant dinner card,860.0,Food
+2026-09-13,bill,2330.0,Health
+2026-09-14,Lab test online,1490.0,Health
+2026-09-15,Bakery card,2170.0,Food
+2026-09-15,KFC lunch card,830.0,Food
+2026-09-15,Gym fee cash,2860.0,
+2026-09-17,other,830.0,
+2026-09-17,Spotify,820.0,Entertainment
+2026-09-17,foodpanda,2000.0,Food
+2026-09-19,Rickshaw online,490.0,
+2026-09-20,other,2130.0,Shopping
+2026-09-21,Restaurant dinner,1590.0,Food
+2026-09-21,KFC lunch,1620.0,Food
+2026-09-24,Doctor visit online,2070.0,Health
+2026-09-25,other,2350.0,Health
+2026-09-26,Daraz order,960.0,Shopping
+2026-09-26,Tea and snacks,1540.0,Food
+2026-09-27,Daraz order cash,2340.0,Shopping
+2026-09-27,Clothes outlet paid,3170.0,Shopping
+2026-09-28,bill,1680.0,Health
+2026-09-28,Netflix cash,2120.0,
+2026-09-28,Doctor visit paid,1270.0,
+2026-09-28,spotify,950.0,
+2026-09-29,Clothes outlet,8880.0,Shopping
+2026-09-29,Rickshaw cash,730.0,
+2026-09-29,Grocery store today,1600.0,Food
+2026-09-30,Mobile accessory,1770.0,Shopping
